@@ -2,6 +2,8 @@
 
 저는 안드로이드 개발에 열정을 가진 오희주입니다.
 
+[![Huiju's GitHub stats](https://github-readme-stats.vercel.app/api?username=noion0511)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 기술 스택
 - **Programming Languages:** `Kotlin`, `Java`
 - **Android Development:** `Android Studio`, `Firebase`, `Hilt`
